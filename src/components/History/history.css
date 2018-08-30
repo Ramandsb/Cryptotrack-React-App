@@ -1,0 +1,36 @@
+.history--section {
+    margin-bottom: 40px;
+    padding: 0 50px;
+}
+
+.history--section h2 {
+    font-size: 15px;
+}
+
+.history--section__box {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+.columns{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+
+
+h4{
+   color: #448bdc;
+   font-size: 15px;
+   margin-left: 40px;
+}
+
+.column {
+    text-align: center;
+    width: 33%
+}
+.history--section__box__inner{
+    border-bottom: 1px solid #DAE1E9;
+}
